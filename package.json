@@ -1,0 +1,8 @@
+{
+  "name": "y",
+  "version": "y",
+  "description": "Monitoramento de memória com node",
+  "main": "index.js",
+  "author": "andré lobo",
+  "license": "MIT"
+}
